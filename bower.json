@@ -1,0 +1,20 @@
+{
+  "name": "LAB01",
+  "description": "",
+  "main": "",
+  "authors": [
+    "victor@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "www.google.com.br",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
